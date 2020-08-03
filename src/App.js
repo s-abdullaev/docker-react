@@ -6,13 +6,13 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={require('./mashrab.png')} className="App-logo" alt="logo" />
         <p>
           Mashrab - ambosh!
         </p>
         <a
           className="App-link"
-          href="https:\/\/reactjs.org"
+          href="https:\/\/mashrab.com"
           target="_blank"
           rel="noopener noreferrer"
         >
